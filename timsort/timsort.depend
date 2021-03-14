@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1614876054 source:d:\utilitare\codeblocks\work\timsort\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<fstream>
+	<chrono>
+

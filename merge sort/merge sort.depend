@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615485514 source:d:\utilitare\codeblocks\work\merge sort\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<chrono>
+

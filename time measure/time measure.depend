@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1615754389 source:d:\utilitare\codeblocks\work\time measure\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<fstream>
+	<chrono>
+	<cmath>
+	<random>
+

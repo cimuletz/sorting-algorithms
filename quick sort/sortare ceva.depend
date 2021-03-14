@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1614633694 source:d:\utilitare\codeblocks\work\sortare ceva\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<fstream>
+	<chrono>
+
+1615751277 source:d:\utilitare\codeblocks\work\quick sort\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<fstream>
+	<chrono>
+

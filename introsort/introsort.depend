@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1615405333 source:d:\utilitare\codeblocks\work\introsort\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<fstream>
+	<chrono>
+	<cmath>
+
